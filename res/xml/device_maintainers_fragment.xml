@@ -118,6 +118,16 @@
         </Preference>
 
         <Preference
+            android:id="@+id/device_z2_plus"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_z2_plus_summary"
+            android:title="@string/device_z2_plus" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/thedenomparkour" />
+        </Preference>
+
+        <Preference
             android:id="@+id/device_oneplus6"
             android:icon="@drawable/havoc_device"
             android:summary="@string/device_oneplus6_summary"
