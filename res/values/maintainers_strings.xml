@@ -21,6 +21,7 @@
 
     <!-- Device Categories -->
     <string name="device_category_generic_title" translatable="false">Generic</string>
+    <string name="device_category_z2_plus_title" translatable="false">Generic</string>
     <string name="device_category_oneplus_title" translatable="false">OnePlus</string>
     <string name="device_category_google_title" translatable="false">Google</string>
     <string name="device_category_samsung_title" translatable="false">Samsung</string>
@@ -42,6 +43,9 @@
 
     <string name="device_genericarm64aonly" translatable="false">Generic System Image</string>
     <string name="device_genericarm64aonly_summary" translatable="false">arm64-aonly\nVincent Vidal</string>
+    
+    <string name="device_z2_plus" translatable="false"></string>
+    <string name="device_z2_plus_summary" translatable="false">z2_plus\nTheDenomParkour (denomparkour)</string>
 
     <string name="device_genericarm64ab" translatable="false">Generic System Image</string>
     <string name="device_genericarm64ab_summary" translatable="false">arm64-ab\nVincent Vidal</string>
